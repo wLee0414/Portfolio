@@ -13,3 +13,7 @@ main {
 .right {
   text-align: right;
 }
+img {
+  border-color: white;
+  border: 1px;
+}
