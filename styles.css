@@ -4,6 +4,7 @@
 
 main {
   width: 500px;
+  background-color: light blue;
 }
 .center {
   text-align: center;
