@@ -4,11 +4,13 @@
   margin: auto;
   background-color: aliceblue;
 }
-
 main {
   padding: 50px;
-  background-color: aqua;
   max-width: 500px;
+  height: 80%;
+}
+aqua {
+  background-color: aqua;
 }
 .center {
   text-align: center;
