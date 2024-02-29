@@ -13,10 +13,6 @@ main {
 .center {
   text-align: center;
 }
-
-.right {
-  text-align: right;
-}
 .imgborder {
   border-color: black;
   border: 1px;
