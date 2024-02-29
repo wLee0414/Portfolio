@@ -6,6 +6,7 @@
 }
 
 main {
+  padding: 50px;
   background-color: aqua;
   max-width: 500px;
 }
