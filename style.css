@@ -16,3 +16,6 @@ main {
   border-color: black;
   border: 1px;
 }
+p, li, ol, ul {
+  font-size: 14px;
+}
